@@ -112,5 +112,4 @@ TW_INCLUDE_NTFS_3G := true                    # Include NTFS Filesystem Support
 TW_INCLUDE_FUSE_EXFAT := true                 # Include Fuse-ExFAT Filesystem Support
 TWRP_INCLUDE_LOGCAT := true                   # Include LogCat Binary
 TW_INCLUDE_FB2PNG := true
-TW_DEFAULT_LANGUAGE := es                     # Set Default Language 
 TW_NO_REBOOT_BOOTLOADER := true
